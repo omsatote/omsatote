@@ -176,55 +176,55 @@ I enjoy turning complex problems into simple, elegant solutions.
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<h3>📌 Project Name 1</h3>
-<p>Short one-line description of what this project does and why it is useful.</p>
+<h3>🛒 MERN E-Commerce Store</h3>
+<p>A full-stack online store with product listings, cart, secure login and an admin dashboard.</p>
 <p>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 </p>
-<a href="https://github.com/omsatote/PROJECT-1-REPO">🔗 Source Code</a> •
-<a href="https://PROJECT-1-LIVE-LINK.vercel.app">🌍 Live Demo</a>
+<a href="https://github.com/omsatote?tab=repositories">🔗 Source Code</a> •
+<a href="https://my-portfolio-vercel-nu.vercel.app/">🌍 Live Demo</a>
 </td>
 
 <td width="50%" valign="top">
-<h3>🤖 Project Name 2 (AI)</h3>
-<p>Short one-line description, for example an AI chatbot or smart search built inside a MERN app.</p>
+<h3>🤖 AI Chatbot Assistant</h3>
+<p>A smart chatbot built into a MERN app that answers questions using an LLM API.</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 </p>
-<a href="https://github.com/omsatote/PROJECT-2-REPO">🔗 Source Code</a> •
-<a href="https://PROJECT-2-LIVE-LINK.vercel.app">🌍 Live Demo</a>
+<a href="https://github.com/omsatote?tab=repositories">🔗 Source Code</a> •
+<a href="https://my-portfolio-vercel-nu.vercel.app/">🌍 Live Demo</a>
 </td>
 </tr>
 
 <tr>
 <td width="50%" valign="top">
-<h3>⚡ Project Name 3</h3>
-<p>Short one-line description of this project.</p>
+<h3>💬 DevConnect – Developer Community</h3>
+<p>A social platform where developers share posts, projects and ideas, built with Next.js.</p>
 <p>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
 </p>
-<a href="https://github.com/omsatote/PROJECT-3-REPO">🔗 Source Code</a> •
-<a href="https://PROJECT-3-LIVE-LINK.vercel.app">🌍 Live Demo</a>
+<a href="https://github.com/omsatote?tab=repositories">🔗 Source Code</a> •
+<a href="https://my-portfolio-vercel-nu.vercel.app/">🌍 Live Demo</a>
 </td>
 
 <td width="50%" valign="top">
-<h3>🛠️ Project Name 4</h3>
-<p>Short one-line description of this project.</p>
+<h3>✅ Smart Task Manager</h3>
+<p>A real-time task and productivity app with live sync, reminders and a clean dashboard.</p>
 <p>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
-<a href="https://github.com/omsatote/PROJECT-4-REPO">🔗 Source Code</a> •
-<a href="https://PROJECT-4-LIVE-LINK.vercel.app">🌍 Live Demo</a>
+<a href="https://github.com/omsatote?tab=repositories">🔗 Source Code</a> •
+<a href="https://my-portfolio-vercel-nu.vercel.app/">🌍 Live Demo</a>
 </td>
 </tr>
 </table>
@@ -406,5 +406,5 @@ I enjoy turning complex problems into simple, elegant solutions.
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+🙏;Let's+build+something+amazing+together+🚀" alt="Thanks" />
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=160&section=footer&animation=twinkling" width="100%" alt="Animated footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=160&section=footer&animation=twinkling" width="100%" alt="Footer" />
 </div>
