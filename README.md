@@ -1,8 +1,8 @@
-<!-- ============ ANIMATED HEADER ============ -->
+<!-- ============ ANIMATED HEADER (DARK) ============ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=260&section=header&text=Om%20Satote&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=MERN%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Open%20Source%20Enthusiast&descSize=20&descAlignY=58" width="100%" alt="Animated header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f2937&height=260&section=header&text=Om%20Satote&fontSize=68&fontColor=7AA2F7&animation=twinkling&fontAlignY=36&desc=MERN%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Open%20Source%20Enthusiast&descColor=c9d1d9&descSize=20&descAlignY=58" width="100%" alt="Animated header" />
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&height=50&lines=👋+Hi+there!+I'm+Om+Satote;💻+MERN+Stack+Developer;🤖+AI+Engineer;🎓+Computer+Engineering+Student;🏆+Hackathon+Lover;🚀+Always+Learning+New+Tech" alt="Typing SVG" />
@@ -10,20 +10,20 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=omsatote&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/omsatote?label=Followers&style=for-the-badge&color=7aa2f7&logo=github" alt="followers" />
-<img src="https://img.shields.io/github/stars/omsatote?label=Stars&style=for-the-badge&color=f7c948&logo=github" alt="stars" />
+<img src="https://komarev.com/ghpvc/?username=omsatote&label=Profile%20Views&color=161b22&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/omsatote?label=Followers&style=for-the-badge&color=161b22&labelColor=0d1117&logo=github" alt="followers" />
+<img src="https://img.shields.io/github/stars/omsatote?label=Stars&style=for-the-badge&color=161b22&labelColor=0d1117&logo=github" alt="stars" />
 
 <br/><br/>
 
-<a href="https://my-portfolio-vercel-nu.vercel.app/"><img src="https://img.shields.io/badge/🌍_Portfolio-7AA2F7?style=for-the-badge&logoColor=white" /></a>
-<a href="https://YOUR-RESUME-LINK"><img src="https://img.shields.io/badge/📄_Resume-E34F26?style=for-the-badge&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/om-satote-a7aa6a325"><img src="https://img.shields.io/badge/🤝_Hire_Me-0077B5?style=for-the-badge&logoColor=white" /></a>
-<a href="mailto:omsatote142005@gmail.com"><img src="https://img.shields.io/badge/✉️_Contact-D14836?style=for-the-badge&logoColor=white" /></a>
+<a href="https://my-portfolio-vercel-nu.vercel.app/"><img src="https://img.shields.io/badge/🌍_Portfolio-161b22?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="https://YOUR-RESUME-LINK"><img src="https://img.shields.io/badge/📄_Resume-161b22?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="https://www.linkedin.com/in/om-satote-a7aa6a325"><img src="https://img.shields.io/badge/🤝_Hire_Me-161b22?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="mailto:omsatote142005@gmail.com"><img src="https://img.shields.io/badge/✉️_Contact-161b22?style=for-the-badge&labelColor=0d1117" /></a>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:30363d,100:0d1117&height=2" width="100%" />
 
 <!-- ============ ABOUT ME ============ -->
 
@@ -93,7 +93,7 @@ I enjoy turning complex problems into simple, elegant solutions.
 </table>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:30363d,100:0d1117&height=2" width="100%" />
 
 <!-- ============ TECH STACK ============ -->
 
@@ -107,41 +107,41 @@ I enjoy turning complex problems into simple, elegant solutions.
 <br/><br/>
 
 <!-- Languages -->
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
 
 <!-- Frontend -->
-<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" />
+<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
+<img src="https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
+<img src="https://img.shields.io/badge/RxJS-0d1117?style=for-the-badge&logo=reactivex&logoColor=B7178C" />
 
 <!-- Backend & DB -->
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
+<img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
 
 <!-- AI / ML -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=4DABCF" />
+<img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit_Learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+<img src="https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=white" />
 
 <!-- Tools -->
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/GIT-0d1117?style=for-the-badge&logo=git&logoColor=E44C30" />
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:30363d,100:0d1117&height=2" width="100%" />
 
 <!-- ============ SKILL LEVELS ============ -->
 
@@ -151,22 +151,22 @@ I enjoy turning complex problems into simple, elegant solutions.
 <table>
 <tr>
 <td>
-<img src="https://img.shields.io/badge/React-90%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" /><br/>
-<img src="https://img.shields.io/badge/Node.js-85%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/MongoDB-80%25-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/JavaScript-90%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-90%25-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=161b22" /><br/>
+<img src="https://img.shields.io/badge/Node.js-85%25-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=161b22" /><br/>
+<img src="https://img.shields.io/badge/MongoDB-80%25-0d1117?style=for-the-badge&logo=mongodb&logoColor=4EA94B&labelColor=161b22" /><br/>
+<img src="https://img.shields.io/badge/JavaScript-90%25-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=161b22" />
 </td>
 <td>
-<img src="https://img.shields.io/badge/Next.js-60%25-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/TypeScript-60%25-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Python-65%25-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-50%25-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-60%25-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=161b22" /><br/>
+<img src="https://img.shields.io/badge/TypeScript-60%25-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=161b22" /><br/>
+<img src="https://img.shields.io/badge/Python-65%25-0d1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=161b22" /><br/>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-50%25-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=161b22" />
 </td>
 </tr>
 </table>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:30363d,100:0d1117&height=2" width="100%" />
 
 <!-- ============ FEATURED PROJECTS ============ -->
 
@@ -179,10 +179,10 @@ I enjoy turning complex problems into simple, elegant solutions.
 <h3>🛒 MERN E-Commerce Store</h3>
 <p>A full-stack online store with product listings, cart, secure login and an admin dashboard.</p>
 <p>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=4EA94B" />
+<img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933" />
 </p>
 <a href="https://github.com/omsatote?tab=repositories">🔗 Source Code</a> •
 <a href="https://my-portfolio-vercel-nu.vercel.app/">🌍 Live Demo</a>
@@ -192,10 +192,10 @@ I enjoy turning complex problems into simple, elegant solutions.
 <h3>🤖 AI Chatbot Assistant</h3>
 <p>A smart chatbot built into a MERN app that answers questions using an LLM API.</p>
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933" />
 </p>
 <a href="https://github.com/omsatote?tab=repositories">🔗 Source Code</a> •
 <a href="https://my-portfolio-vercel-nu.vercel.app/">🌍 Live Demo</a>
@@ -207,9 +207,9 @@ I enjoy turning complex problems into simple, elegant solutions.
 <h3>💬 DevConnect – Developer Community</h3>
 <p>A social platform where developers share posts, projects and ideas, built with Next.js.</p>
 <p>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwind-css&logoColor=38B2AC" />
 </p>
 <a href="https://github.com/omsatote?tab=repositories">🔗 Source Code</a> •
 <a href="https://my-portfolio-vercel-nu.vercel.app/">🌍 Live Demo</a>
@@ -219,9 +219,9 @@ I enjoy turning complex problems into simple, elegant solutions.
 <h3>✅ Smart Task Manager</h3>
 <p>A real-time task and productivity app with live sync, reminders and a clean dashboard.</p>
 <p>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28" />
+<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap&logoColor=7952B3" />
 </p>
 <a href="https://github.com/omsatote?tab=repositories">🔗 Source Code</a> •
 <a href="https://my-portfolio-vercel-nu.vercel.app/">🌍 Live Demo</a>
@@ -232,7 +232,7 @@ I enjoy turning complex problems into simple, elegant solutions.
 <p>🌍 See more on my <a href="https://my-portfolio-vercel-nu.vercel.app/"><b>portfolio</b></a> • 📂 <a href="https://github.com/omsatote?tab=repositories"><b>all repositories</b></a></p>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:30363d,100:0d1117&height=2" width="100%" />
 
 <!-- ============ HACKATHONS ============ -->
 
@@ -292,7 +292,7 @@ I enjoy turning complex problems into simple, elegant solutions.
 </table>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:30363d,100:0d1117&height=2" width="100%" />
 
 <!-- ============ ROADMAP ============ -->
 
@@ -325,31 +325,31 @@ I enjoy turning complex problems into simple, elegant solutions.
 </table>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:30363d,100:0d1117&height=2" width="100%" />
 
-<!-- ============ GITHUB STATS ============ -->
+<!-- ============ GITHUB STATS (DARK THEMES) ============ -->
 
 <div align="center">
 <h2>📊 GitHub Stats</h2>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omsatote&theme=tokyonight" alt="Profile details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omsatote&theme=github_dark" alt="Profile details" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omsatote&theme=tokyonight" height="180" alt="Repos per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omsatote&theme=tokyonight" height="180" alt="Most commit language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omsatote&theme=github_dark" height="180" alt="Repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omsatote&theme=github_dark" height="180" alt="Most commit language" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omsatote&theme=tokyonight" height="180" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omsatote&theme=tokyonight&utcOffset=5.5" height="180" alt="Productive time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omsatote&theme=github_dark" height="180" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omsatote&theme=github_dark&utcOffset=5.5" height="180" alt="Productive time" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=omsatote&theme=tokyonight&hide_border=false" alt="Streak stats" />
+<img src="https://streak-stats.demolab.com/?user=omsatote&theme=dark&background=0D1117&hide_border=true" alt="Streak stats" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:30363d,100:0d1117&height=2" width="100%" />
 
 <!-- ============ ACTIVITY ============ -->
 
@@ -363,17 +363,17 @@ I enjoy turning complex problems into simple, elegant solutions.
 <img src="https://raw.githubusercontent.com/omsatote/omsatote/output/snake.svg" width="100%" alt="Contribution snake" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:30363d,100:0d1117&height=2" width="100%" />
 
 <!-- ============ QUOTE ============ -->
 
 <div align="center">
 <h2>✍️ Random Dev Quote</h2>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quoteColor=c9d1d9&authorColor=7aa2f7&bgColor=0d1117&borderColor=30363d" alt="Random dev quote" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:30363d,100:0d1117&height=2" width="100%" />
 
 <!-- ============ CONNECT ============ -->
 
@@ -381,23 +381,23 @@ I enjoy turning complex problems into simple, elegant solutions.
 <h2>🌐 Connect With Me</h2>
 
 <a href="https://my-portfolio-vercel-nu.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="mailto:omsatote142005@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836" />
 </a>
 
 <a href="https://www.linkedin.com/in/om-satote-a7aa6a325">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 
 <a href="https://www.instagram.com/om_satote14">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
 </a>
 
 <a href="https://discord.gg/Devil.Lucifer">
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2" />
 </a>
 
 <br/><br/>
@@ -406,5 +406,5 @@ I enjoy turning complex problems into simple, elegant solutions.
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+🙏;Let's+build+something+amazing+together+🚀" alt="Thanks" />
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=160&section=footer&animation=twinkling" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f2937&height=160&section=footer&animation=twinkling" width="100%" alt="Footer" />
 </div>
