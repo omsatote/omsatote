@@ -1,33 +1,38 @@
-<!-- Animated Header (twinkling stars background + waves) -->
+<!-- ============ ANIMATED HEADER ============ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Om%20Satote&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=MERN%20Stack%20Developer%20%7C%20AI%20Engineer&descSize=22&descAlignY=58" width="100%" alt="Animated header" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=260&section=header&text=Om%20Satote&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=MERN%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Open%20Source%20Enthusiast&descSize=20&descAlignY=58" width="100%" alt="Animated header" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Om+Satote;MERN+Stack+Developer;AI+Engineer;Computer+Engineering+Student;Always+Learning+New+Tech" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&height=50&lines=👋+Hi+there!+I'm+Om+Satote;💻+MERN+Stack+Developer;🤖+AI+Engineer;🎓+Computer+Engineering+Student;🏆+Hackathon+Lover;🚀+Always+Learning+New+Tech" alt="Typing SVG" />
 </a>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=omsatote&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="profile views" />
-</p>
+<br/>
 
-<!-- Quick Links -->
-<p align="center">
-<a href="https://my-portfolio-vercel-nu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://YOUR-RESUME-LINK"><img src="https://img.shields.io/badge/Resume-E34F26?style=for-the-badge&logo=googledocs&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/om-satote-a7aa6a325"><img src="https://img.shields.io/badge/Hire%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=omsatote&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/omsatote?label=Followers&style=for-the-badge&color=7aa2f7&logo=github" alt="followers" />
+<img src="https://img.shields.io/github/stars/omsatote?label=Stars&style=for-the-badge&color=f7c948&logo=github" alt="stars" />
+
+<br/><br/>
+
+<a href="https://my-portfolio-vercel-nu.vercel.app/"><img src="https://img.shields.io/badge/🌍_Portfolio-7AA2F7?style=for-the-badge&logoColor=white" /></a>
+<a href="https://YOUR-RESUME-LINK"><img src="https://img.shields.io/badge/📄_Resume-E34F26?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/om-satote-a7aa6a325"><img src="https://img.shields.io/badge/🤝_Hire_Me-0077B5?style=for-the-badge&logoColor=white" /></a>
+<a href="mailto:omsatote142005@gmail.com"><img src="https://img.shields.io/badge/✉️_Contact-D14836?style=for-the-badge&logoColor=white" /></a>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<!-- About Me Section with Side-by-Side Layout -->
+<!-- ============ ABOUT ME ============ -->
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=⚡%20About%20Me&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" alt="About Me" />
+
 <table border="0" width="100%">
 <tr>
 <td width="60%" valign="top">
-<h2>⚡ About Me</h2>
 
 <div style="font-size: 17px; line-height: 1.6;">
 
@@ -91,14 +96,13 @@ I enjoy turning complex problems into simple, elegant solutions.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<!-- Tech Stack Section -->
+<!-- ============ TECH STACK ============ -->
 
 <div align="center">
-<h2>💻 Tech Stack</h2>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=💻%20Tech%20Stack&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" alt="Tech Stack" />
 
-<!-- Logo Grid -->
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,ts,java,cpp,py,html,css,react,nextjs,nodejs,express,mongodb,mysql,firebase,tailwind,bootstrap,git,github,vercel,figma,docker,kubernetes,aws,gcp,linux,vscode,postman,npm,tensorflow,pytorch&perline=10" alt="Tech stack logos" />
+<img src="https://skillicons.dev/icons?i=js,ts,java,cpp,py,html,css,react,nextjs,nodejs,express,mongodb,mysql,firebase,tailwind,bootstrap,git,github,vercel,figma,docker,kubernetes,aws,gcp,linux,vscode,postman,npm,tensorflow,pytorch&perline=10&theme=dark" alt="Tech stack logos" />
 </a>
 
 <br/><br/>
@@ -140,10 +144,35 @@ I enjoy turning complex problems into simple, elegant solutions.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<!-- Featured Projects Section -->
+<!-- ============ SKILL LEVELS ============ -->
 
 <div align="center">
-<h2>🚀 Featured Projects</h2>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=📈%20Skill%20Levels&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" alt="Skill Levels" />
+
+<table>
+<tr>
+<td>
+<img src="https://img.shields.io/badge/React-90%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" /><br/>
+<img src="https://img.shields.io/badge/Node.js-85%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/MongoDB-80%25-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/JavaScript-90%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</td>
+<td>
+<img src="https://img.shields.io/badge/Next.js-60%25-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/TypeScript-60%25-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Python-65%25-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-50%25-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</td>
+</tr>
+</table>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<!-- ============ FEATURED PROJECTS ============ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=🚀%20Featured%20Projects&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" alt="Featured Projects" />
 
 <table width="100%">
 <tr>
@@ -206,10 +235,10 @@ I enjoy turning complex problems into simple, elegant solutions.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<!-- Hackathons & Achievements Section -->
+<!-- ============ HACKATHONS ============ -->
 
 <div align="center">
-<h2>🏅 Hackathons & Achievements</h2>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=🏅%20Hackathons%20%26%20Achievements&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" alt="Hackathons" />
 
 <table width="100%">
 <tr>
@@ -235,10 +264,10 @@ I enjoy turning complex problems into simple, elegant solutions.
 </table>
 </div>
 
-<!-- Certifications Section -->
+<!-- ============ CERTIFICATIONS ============ -->
 
 <div align="center">
-<h2>📜 Certifications & Courses</h2>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=📜%20Certifications%20%26%20Courses&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" alt="Certifications" />
 
 <table width="100%">
 <tr>
@@ -266,10 +295,10 @@ I enjoy turning complex problems into simple, elegant solutions.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<!-- Roadmap Section -->
+<!-- ============ ROADMAP ============ -->
 
 <div align="center">
-<h2>🗺️ Roadmap (What I'm Up To)</h2>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=🗺️%20Roadmap&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" alt="Roadmap" />
 
 <table width="100%">
 <tr>
@@ -299,10 +328,10 @@ I enjoy turning complex problems into simple, elegant solutions.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<!-- Stats Section -->
+<!-- ============ GITHUB STATS ============ -->
 
 <div align="center">
-<h2>📊 GitHub Stats</h2>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=📊%20GitHub%20Stats&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" alt="GitHub Stats" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omsatote&theme=tokyonight" alt="Profile details" />
 
@@ -313,33 +342,44 @@ I enjoy turning complex problems into simple, elegant solutions.
 
 <br/>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omsatote&theme=tokyonight" height="180" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omsatote&theme=tokyonight&utcOffset=5.5" height="180" alt="Productive time" />
+
+<br/>
+
 <img src="https://streak-stats.demolab.com/?user=omsatote&theme=tokyonight&hide_border=false" alt="Streak stats" />
 </div>
 
-<!-- Trophies & Activity -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<!-- ============ ACTIVITY ============ -->
 
 <div align="center">
-<h2>🏆 Trophies & Activity</h2>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=🏆%20Activity%20%26%20Contributions&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" alt="Activity" />
 
 <img src="https://ghchart.rshah.org/7aa6f7/omsatote" alt="Contribution chart" width="95%" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omsatote&theme=tokyonight" alt="GitHub stats summary" />
-</div>
-
-<!-- Snake Animation -->
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/omsatote/omsatote/output/snake.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/omsatote/omsatote/output/snake.svg" width="100%" alt="Contribution snake" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<!-- Footer & Socials -->
+<!-- ============ QUOTE ============ -->
 
 <div align="center">
-<h2>🌐 Connect With Me</h2>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=✍️%20Random%20Dev%20Quote&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" alt="Quote" />
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<!-- ============ CONNECT ============ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=🌐%20Connect%20With%20Me&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" alt="Connect" />
 
 <a href="https://my-portfolio-vercel-nu.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -363,6 +403,9 @@ I enjoy turning complex problems into simple, elegant solutions.
 
 <br/><br/>
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&animation=twinkling" width="100%" alt="Animated footer" />
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+🙏;Let's+build+something+amazing+together+🚀" alt="Thanks" />
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=160&section=footer&animation=twinkling" width="100%" alt="Animated footer" />
 </div>
