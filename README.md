@@ -28,11 +28,10 @@
 <!-- ============ ABOUT ME ============ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=⚡%20About%20Me&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" alt="About Me" />
-
 <table border="0" width="100%">
 <tr>
 <td width="60%" valign="top">
+<h2>⚡ About Me</h2>
 
 <div style="font-size: 17px; line-height: 1.6;">
 
@@ -99,7 +98,7 @@ I enjoy turning complex problems into simple, elegant solutions.
 <!-- ============ TECH STACK ============ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=💻%20Tech%20Stack&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" alt="Tech Stack" />
+<h2>💻 Tech Stack</h2>
 
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,py,html,css,react,nextjs,nodejs,express,mongodb,mysql,firebase,tailwind,bootstrap,git,github,vercel,figma,docker,kubernetes,aws,gcp,linux,vscode,postman,npm,tensorflow,pytorch&perline=10&theme=dark" alt="Tech stack logos" />
@@ -147,7 +146,7 @@ I enjoy turning complex problems into simple, elegant solutions.
 <!-- ============ SKILL LEVELS ============ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=📈%20Skill%20Levels&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" alt="Skill Levels" />
+<h2>📈 Skill Levels</h2>
 
 <table>
 <tr>
@@ -172,7 +171,7 @@ I enjoy turning complex problems into simple, elegant solutions.
 <!-- ============ FEATURED PROJECTS ============ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=🚀%20Featured%20Projects&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" alt="Featured Projects" />
+<h2>🚀 Featured Projects</h2>
 
 <table width="100%">
 <tr>
@@ -238,7 +237,7 @@ I enjoy turning complex problems into simple, elegant solutions.
 <!-- ============ HACKATHONS ============ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=🏅%20Hackathons%20%26%20Achievements&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" alt="Hackathons" />
+<h2>🏅 Hackathons & Achievements</h2>
 
 <table width="100%">
 <tr>
@@ -267,7 +266,7 @@ I enjoy turning complex problems into simple, elegant solutions.
 <!-- ============ CERTIFICATIONS ============ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=📜%20Certifications%20%26%20Courses&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" alt="Certifications" />
+<h2>📜 Certifications & Courses</h2>
 
 <table width="100%">
 <tr>
@@ -298,7 +297,7 @@ I enjoy turning complex problems into simple, elegant solutions.
 <!-- ============ ROADMAP ============ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=🗺️%20Roadmap&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" alt="Roadmap" />
+<h2>🗺️ Roadmap</h2>
 
 <table width="100%">
 <tr>
@@ -331,7 +330,7 @@ I enjoy turning complex problems into simple, elegant solutions.
 <!-- ============ GITHUB STATS ============ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=📊%20GitHub%20Stats&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" alt="GitHub Stats" />
+<h2>📊 GitHub Stats</h2>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omsatote&theme=tokyonight" alt="Profile details" />
 
@@ -355,7 +354,7 @@ I enjoy turning complex problems into simple, elegant solutions.
 <!-- ============ ACTIVITY ============ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=🏆%20Activity%20%26%20Contributions&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" alt="Activity" />
+<h2>🏆 Activity & Contributions</h2>
 
 <img src="https://ghchart.rshah.org/7aa6f7/omsatote" alt="Contribution chart" width="95%" />
 
@@ -369,7 +368,7 @@ I enjoy turning complex problems into simple, elegant solutions.
 <!-- ============ QUOTE ============ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=✍️%20Random%20Dev%20Quote&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" alt="Quote" />
+<h2>✍️ Random Dev Quote</h2>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
 </div>
@@ -379,7 +378,7 @@ I enjoy turning complex problems into simple, elegant solutions.
 <!-- ============ CONNECT ============ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=🌐%20Connect%20With%20Me&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" alt="Connect" />
+<h2>🌐 Connect With Me</h2>
 
 <a href="https://my-portfolio-vercel-nu.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" />
