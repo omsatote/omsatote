@@ -4,11 +4,18 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTV4aWl6cjBxc3QyMmFqbGxmMHo4MzhnOWZwazhiNnB1c3pra3RsbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" width="150" align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Om+Satote;MERN+Stack+Developer;AI+Engineer;Open+Source+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Om+Satote;MERN+Stack+Developer;AI+Engineer;Computer+Engineering+Student;Always+Learning+New+Tech" alt="Typing SVG" />
 </a>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=omsatote&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="profile views" />
+</p>
+
+<!-- Quick Links -->
+<p align="center">
+<a href="https://my-portfolio-vercel-nu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://YOUR-RESUME-LINK"><img src="https://img.shields.io/badge/Resume-E34F26?style=for-the-badge&logo=googledocs&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/om-satote-a7aa6a325"><img src="https://img.shields.io/badge/Hire%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 </div>
 
@@ -22,8 +29,13 @@
 
 <div style="font-size: 17px; line-height: 1.6;">
 
-✨ I'm a passionate <b>MERN Stack Developer</b> and <b>AI Engineer</b> who loves building clean, efficient, and scalable digital experiences.  
+✨ I'm a passionate <b>Computer Engineering student</b>, <b>MERN Stack Developer</b> and <b>AI Engineer</b> who loves building clean, efficient, and scalable digital experiences.  
 I enjoy turning complex problems into simple, elegant solutions.
+
+
+🌍 <b>Portfolio</b><br>
+• <a href="https://my-portfolio-vercel-nu.vercel.app/">my-portfolio-vercel-nu.vercel.app</a>
+
 
 
 🚀 <b>Currently Working On</b><br>
@@ -122,6 +134,159 @@ I enjoy turning complex problems into simple, elegant solutions.
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
+<!-- Featured Projects Section -->
+
+<div align="center">
+<h2>🚀 Featured Projects</h2>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3>📌 Project Name 1</h3>
+<p>Short one-line description of what this project does and why it is useful.</p>
+<p>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+</p>
+<a href="https://github.com/omsatote/PROJECT-1-REPO">🔗 Source Code</a> •
+<a href="https://PROJECT-1-LIVE-LINK.vercel.app">🌍 Live Demo</a>
+</td>
+
+<td width="50%" valign="top">
+<h3>🤖 Project Name 2 (AI)</h3>
+<p>Short one-line description, for example an AI chatbot or smart search built inside a MERN app.</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+</p>
+<a href="https://github.com/omsatote/PROJECT-2-REPO">🔗 Source Code</a> •
+<a href="https://PROJECT-2-LIVE-LINK.vercel.app">🌍 Live Demo</a>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+<h3>⚡ Project Name 3</h3>
+<p>Short one-line description of this project.</p>
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+</p>
+<a href="https://github.com/omsatote/PROJECT-3-REPO">🔗 Source Code</a> •
+<a href="https://PROJECT-3-LIVE-LINK.vercel.app">🌍 Live Demo</a>
+</td>
+
+<td width="50%" valign="top">
+<h3>🛠️ Project Name 4</h3>
+<p>Short one-line description of this project.</p>
+<p>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+</p>
+<a href="https://github.com/omsatote/PROJECT-4-REPO">🔗 Source Code</a> •
+<a href="https://PROJECT-4-LIVE-LINK.vercel.app">🌍 Live Demo</a>
+</td>
+</tr>
+</table>
+
+<p>🌍 See more on my <a href="https://my-portfolio-vercel-nu.vercel.app/"><b>portfolio</b></a> • 📂 <a href="https://github.com/omsatote?tab=repositories"><b>all repositories</b></a></p>
+</div>
+
+<!-- Hackathons & Achievements Section -->
+
+<div align="center">
+<h2>🏅 Hackathons & Achievements</h2>
+
+<table width="100%">
+<tr>
+<th>Event</th>
+<th>Result</th>
+<th>What I Built</th>
+</tr>
+<tr>
+<td>Hackathon Name 1</td>
+<td>🥇 Winner / 🏆 Finalist / 🎖️ Participant</td>
+<td>Short description of the project</td>
+</tr>
+<tr>
+<td>Hackathon Name 2</td>
+<td>🥈 Runner-up / 🏆 Finalist / 🎖️ Participant</td>
+<td>Short description of the project</td>
+</tr>
+<tr>
+<td>Hackathon Name 3</td>
+<td>🎖️ Participant</td>
+<td>Short description of the project</td>
+</tr>
+</table>
+</div>
+
+<!-- Certifications Section -->
+
+<div align="center">
+<h2>📜 Certifications & Courses</h2>
+
+<table width="100%">
+<tr>
+<th>Certification / Course</th>
+<th>Issued By</th>
+<th>Year</th>
+</tr>
+<tr>
+<td>Machine Learning / AI Course Name</td>
+<td>Coursera / Udemy / NPTEL</td>
+<td>2026</td>
+</tr>
+<tr>
+<td>Cloud Certification (AWS / GCP)</td>
+<td>AWS / Google Cloud</td>
+<td>2026</td>
+</tr>
+<tr>
+<td>Next.js / Full-Stack Course Name</td>
+<td>Platform Name</td>
+<td>2026</td>
+</tr>
+</table>
+</div>
+
+<!-- Roadmap Section -->
+
+<div align="center">
+<h2>🗺️ Roadmap (What I'm Up To)</h2>
+
+<table width="100%">
+<tr>
+<td valign="top" width="33%">
+<h3>🔨 Building</h3>
+• Full-stack MERN project<br>
+• AI chatbot with LLM API<br>
+• Portfolio website
+</td>
+<td valign="top" width="33%">
+<h3>📚 Learning</h3>
+• Next.js<br>
+• TypeScript<br>
+• System Design<br>
+• Machine Learning
+</td>
+<td valign="top" width="33%">
+<h3>🎯 Next Goals</h3>
+• Win more hackathons<br>
+• Contribute to open source<br>
+• Learn Docker & CI/CD<br>
+• Get an AI Engineer role
+</td>
+</tr>
+</table>
+</div>
+
 <!-- Stats Section -->
 
 <div align="center">
@@ -165,6 +330,10 @@ I enjoy turning complex problems into simple, elegant solutions.
 
 <div align="center">
 <h2>🌐 Connect With Me</h2>
+
+<a href="https://my-portfolio-vercel-nu.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 <a href="mailto:omsatote142005@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
