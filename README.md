@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTV4aWl6cjBxc3QyMmFqbGxmMHo4MzhnOWZwazhiNnB1c3pra3RsbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" width="150" align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Om+Satote;MERN+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Om+Satote;MERN+Stack+Developer;AI+Engineer;Open+Source+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -22,19 +22,21 @@
 
 <div style="font-size: 17px; line-height: 1.6;">
 
-✨ I'm a passionate <b>MERN Stack Developer</b> who loves building clean, efficient, and scalable digital experiences.  
+✨ I'm a passionate <b>MERN Stack Developer</b> and <b>AI Engineer</b> who loves building clean, efficient, and scalable digital experiences.  
 I enjoy turning complex problems into simple, elegant solutions.
 
 
 🚀 <b>Currently Working On</b><br>
-• Dynamic full-stack web applications using <b>MERN Stack</b>
+• Dynamic full-stack web applications using <b>MERN Stack</b><br>
+• AI-powered features and ML / LLM-based apps
 
 
 
 🤝 <b>Looking to Collaborate On</b><br>
 • Open-source projects<br>
 • API development<br>
-• Scalable backend systems
+• Scalable backend systems<br>
+• AI / ML projects
 
 
 
@@ -47,14 +49,16 @@ I enjoy turning complex problems into simple, elegant solutions.
 🌱 <b>Currently Learning</b><br>
 • <b>Next.js</b> for advanced production-grade apps<br>
 • <b>TypeScript</b> for type-safe development<br>
-• <b>System Design</b> for scalable architecture
+• <b>System Design</b> for scalable architecture<br>
+• <b>AI / Machine Learning</b> and Generative AI
 
 
 
 💬 <b>Ask Me About</b><br>
 • React, Node.js<br>
 • REST APIs & Databases<br>
-• Frontend/Backend Optimization
+• Frontend/Backend Optimization<br>
+• Integrating AI into web apps
 
 
 
@@ -62,7 +66,7 @@ I enjoy turning complex problems into simple, elegant solutions.
 • I thrive in hackathons — they’re my caffeine boost! ☕🔥
 
 </div>
-
+</td>
 
 <td width="40%" align="center" valign="middle">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTV4aWl6cjBxc3QyMmFqbGxmMHo4MzhnOWZwazhiNnB1c3pra3RsbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif" width="100%" alt="Coding Gif"/>
@@ -76,7 +80,7 @@ I enjoy turning complex problems into simple, elegant solutions.
 <div align="center">
 <h2>💻 Tech Stack</h2>
 
-<!-- Logo Grid (NEW) -->
+<!-- Logo Grid -->
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,py,html,css,react,nextjs,nodejs,express,mongodb,mysql,firebase,tailwind,bootstrap,git,github,vercel,figma,docker,kubernetes,aws,gcp,linux,vscode,postman,npm,tensorflow,pytorch&perline=10" alt="Tech stack logos" />
 </a>
@@ -104,6 +108,13 @@ I enjoy turning complex problems into simple, elegant solutions.
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 
+<!-- AI / ML -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+
 <!-- Tools -->
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -116,12 +127,18 @@ I enjoy turning complex problems into simple, elegant solutions.
 <div align="center">
 <h2>📊 GitHub Stats</h2>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=omsatote&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omsatote&theme=tokyonight&hide_border=false&layout=compact" height="180" />
-</div>
+<!-- Stats cards (alternative host that is more reliable) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omsatote&theme=tokyonight" alt="Profile details" />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=omsatote&theme=tokyonight&hide_border=false" />
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omsatote&theme=tokyonight" height="180" alt="Repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omsatote&theme=tokyonight" height="180" alt="Most commit language" />
+
+<br/>
+
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com/?user=omsatote&theme=tokyonight&hide_border=false" alt="Streak stats" />
 </div>
 
 <!-- Trophies & Activity -->
@@ -129,9 +146,13 @@ I enjoy turning complex problems into simple, elegant solutions.
 <div align="center">
 <h2>🏆 Trophies & Activity</h2>
 
-<img src="https://github-profile-trophy.vercel.app/?username=omsatote&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+<!-- Contribution chart -->
+<img src="https://ghchart.rshah.org/7aa6f7/omsatote" alt="Contribution chart" width="95%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omsatote&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+<br/><br/>
+
+<!-- Achievements -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omsatote&theme=tokyonight" alt="GitHub stats summary" />
 </div>
 
 <!-- Snake Animation -->
