@@ -1,10 +1,10 @@
-<!-- Header Section -->
+<!-- Animated Header (twinkling stars background + waves) -->
 
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTV4aWl6cjBxc3QyMmFqbGxmMHo4MzhnOWZwazhiNnB1c3pra3RsbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" width="150" align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Om%20Satote&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=MERN%20Stack%20Developer%20%7C%20AI%20Engineer&descSize=22&descAlignY=58" width="100%" alt="Animated header" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Om+Satote;MERN+Stack+Developer;AI+Engineer;Computer+Engineering+Student;Always+Learning+New+Tech" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Om+Satote;MERN+Stack+Developer;AI+Engineer;Computer+Engineering+Student;Always+Learning+New+Tech" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -18,6 +18,8 @@
 <a href="https://www.linkedin.com/in/om-satote-a7aa6a325"><img src="https://img.shields.io/badge/Hire%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- About Me Section with Side-by-Side Layout -->
 
@@ -87,6 +89,8 @@ I enjoy turning complex problems into simple, elegant solutions.
 </table>
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
 <!-- Tech Stack Section -->
 
 <div align="center">
@@ -133,6 +137,8 @@ I enjoy turning complex problems into simple, elegant solutions.
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- Featured Projects Section -->
 
@@ -198,6 +204,8 @@ I enjoy turning complex problems into simple, elegant solutions.
 <p>🌍 See more on my <a href="https://my-portfolio-vercel-nu.vercel.app/"><b>portfolio</b></a> • 📂 <a href="https://github.com/omsatote?tab=repositories"><b>all repositories</b></a></p>
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
 <!-- Hackathons & Achievements Section -->
 
 <div align="center">
@@ -256,6 +264,8 @@ I enjoy turning complex problems into simple, elegant solutions.
 </table>
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
 <!-- Roadmap Section -->
 
 <div align="center">
@@ -287,12 +297,13 @@ I enjoy turning complex problems into simple, elegant solutions.
 </table>
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
 <!-- Stats Section -->
 
 <div align="center">
 <h2>📊 GitHub Stats</h2>
 
-<!-- Stats cards (alternative host that is more reliable) -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omsatote&theme=tokyonight" alt="Profile details" />
 
 <br/>
@@ -302,7 +313,6 @@ I enjoy turning complex problems into simple, elegant solutions.
 
 <br/>
 
-<!-- Streak -->
 <img src="https://streak-stats.demolab.com/?user=omsatote&theme=tokyonight&hide_border=false" alt="Streak stats" />
 </div>
 
@@ -311,12 +321,10 @@ I enjoy turning complex problems into simple, elegant solutions.
 <div align="center">
 <h2>🏆 Trophies & Activity</h2>
 
-<!-- Contribution chart -->
 <img src="https://ghchart.rshah.org/7aa6f7/omsatote" alt="Contribution chart" width="95%" />
 
 <br/><br/>
 
-<!-- Achievements -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omsatote&theme=tokyonight" alt="GitHub stats summary" />
 </div>
 
@@ -325,6 +333,8 @@ I enjoy turning complex problems into simple, elegant solutions.
 <div align="center">
 <img src="https://raw.githubusercontent.com/omsatote/omsatote/output/snake.svg" width="100%" />
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- Footer & Socials -->
 
@@ -351,5 +361,8 @@ I enjoy turning complex problems into simple, elegant solutions.
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
+<br/><br/>
+
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&animation=twinkling" width="100%" alt="Animated footer" />
 </div>
