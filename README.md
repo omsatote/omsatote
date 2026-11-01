@@ -1,8 +1,8 @@
-<!-- ============ ANIMATED HEADER ============ -->
+<!-- ============ TOP BANNER ============ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=260&section=header&text=Om%20Satote&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=MERN%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Open%20Source%20Enthusiast&descSize=20&descAlignY=58" width="100%" alt="Animated header" />
+<img src="https://raw.githubusercontent.com/omsatote/omsatote/main/assets/banner-top.svg" width="100%" alt="Om Satote banner" />
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&height=50&lines=👋+Hi+there!+I'm+Om+Satote;💻+MERN+Stack+Developer;🤖+AI+Engineer;🎓+Computer+Engineering+Student;🏆+Hackathon+Lover;🚀+Always+Learning+New+Tech" alt="Typing SVG" />
@@ -18,7 +18,7 @@
 
 <a href="https://my-portfolio-vercel-nu.vercel.app/"><img src="https://img.shields.io/badge/🌍_Portfolio-7AA2F7?style=for-the-badge&logoColor=white" /></a>
 <a href="https://YOUR-RESUME-LINK"><img src="https://img.shields.io/badge/📄_Resume-E34F26?style=for-the-badge&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/om-satote-a7aa6a325"><img src="https://img.shields.io/badge/🤝_Hire_Me-0077B5?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/om-satote/"><img src="https://img.shields.io/badge/🤝_Hire_Me-0077B5?style=for-the-badge&logoColor=white" /></a>
 <a href="mailto:omsatote142005@gmail.com"><img src="https://img.shields.io/badge/✉️_Contact-D14836?style=for-the-badge&logoColor=white" /></a>
 
 </div>
@@ -35,13 +35,15 @@
 
 <div style="font-size: 17px; line-height: 1.6;">
 
-✨ I'm a passionate <b>Computer Engineering student</b>, <b>MERN Stack Developer</b> and <b>AI Engineer</b> who loves building clean, efficient, and scalable digital experiences.  
-I enjoy turning complex problems into simple, elegant solutions.
+I’m a passionate <b>Computer Science student</b> with <b>2+ years</b> of hands-on experience in tech events, hackathons, and project building. I enjoy turning ideas into reality through code and have developed skills in <b>full-stack development</b>, <b>IoT</b>, and <b>AI-powered applications</b>.
+
+As the leader of <b>Tech Busters Team</b>, I’ve guided peers in building innovative solutions, collaborating in hackathons, and exploring cutting-edge technologies. I believe in learning by doing, and every project I work on, from <b>IoT home automation</b> to <b>AI health apps</b>, pushes me to grow as both a developer and a team leader.
 
 
-🌍 <b>Portfolio</b><br>
-• <a href="https://my-portfolio-vercel-nu.vercel.app/">my-portfolio-vercel-nu.vercel.app</a>
-
+✨ <b>What Drives Me</b><br>
+• Solving real-world problems with technology<br>
+• Exploring full-stack development and emerging tech<br>
+• Sharing knowledge and building communities
 
 
 🚀 <b>Currently Working On</b><br>
@@ -49,39 +51,34 @@ I enjoy turning complex problems into simple, elegant solutions.
 • AI-powered features and ML / LLM-based apps
 
 
-
 🤝 <b>Looking to Collaborate On</b><br>
 • Open-source projects<br>
-• API development<br>
-• Scalable backend systems<br>
-• AI / ML projects
-
-
-
-🛠️ <b>Looking for Help With</b><br>
-• DevOps workflows (CI/CD)<br>
-• Docker & Kubernetes<br>
-• Cloud Architecture (AWS, GCP)
+• API development and scalable backend systems<br>
+• AI / ML and IoT projects
 
 
 🌱 <b>Currently Learning</b><br>
-• <b>Next.js</b> for advanced production-grade apps<br>
-• <b>TypeScript</b> for type-safe development<br>
-• <b>System Design</b> for scalable architecture<br>
-• <b>AI / Machine Learning</b> and Generative AI
-
+• <b>Next.js</b> and <b>TypeScript</b><br>
+• <b>System Design</b><br>
+• <b>AI / Machine Learning</b> and Generative AI<br>
+• <b>DevOps</b>: CI/CD, Docker & Kubernetes, Cloud (AWS, GCP)
 
 
 💬 <b>Ask Me About</b><br>
-• React, Node.js<br>
-• REST APIs & Databases<br>
-• Frontend/Backend Optimization<br>
+• React, Node.js, REST APIs & Databases<br>
+• Hackathons and building as a team<br>
 • Integrating AI into web apps
 
 
+🌍 <b>Portfolio</b><br>
+• <a href="https://my-portfolio-vercel-nu.vercel.app/">my-portfolio-vercel-nu.vercel.app</a>
+
 
 🎯 <b>Fun Fact</b><br>
-• I thrive in hackathons — they’re my caffeine boost! ☕🔥
+• I thrive in hackathons, they’re my caffeine boost! ☕🔥
+
+
+<i>Always curious, always building, and always looking forward to new challenges, collaborations, and opportunities to learn.</i>
 
 </div>
 </td>
@@ -336,75 +333,4 @@ I enjoy turning complex problems into simple, elegant solutions.
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omsatote&theme=tokyonight" height="180" alt="Repos per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omsatote&theme=tokyonight" height="180" alt="Most commit language" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omsatote&theme=tokyonight" height="180" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omsatote&theme=tokyonight&utcOffset=5.5" height="180" alt="Productive time" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=omsatote&theme=tokyonight&hide_border=false" alt="Streak stats" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-<!-- ============ ACTIVITY ============ -->
-
-<div align="center">
-<h2>🏆 Activity & Contributions</h2>
-
-<img src="https://ghchart.rshah.org/7aa6f7/omsatote" alt="Contribution chart" width="95%" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/omsatote/omsatote/output/snake.svg" width="100%" alt="Contribution snake" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-<!-- ============ QUOTE ============ -->
-
-<div align="center">
-<h2>✍️ Random Dev Quote</h2>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-<!-- ============ CONNECT ============ -->
-
-<div align="center">
-<h2>🌐 Connect With Me</h2>
-
-<a href="https://my-portfolio-vercel-nu.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="mailto:omsatote142005@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/om-satote-a7aa6a325">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/om_satote14">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://discord.gg/Devil.Lucifer">
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+🙏;Let's+build+something+amazing+together+🚀" alt="Thanks" />
-</a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=160&section=footer&animation=twinkling" width="100%" alt="Footer" />
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omsatote&theme=tokyonight" height="180" alt="Repos per
