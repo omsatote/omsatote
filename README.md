@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/omsatote/omsatote/main/assets/banner-top.gif" width="100%" alt="Om Satote banner" />
+<img src="https://raw.githubusercontent.com/omsatote/omsatote/main/banner-top.gif" width="100%" alt="Om Satote banner" />
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&height=50&lines=👋+Hi+there!+I'm+Om+Satote;💻+MERN+Stack+Developer;🤖+AI+Engineer;🎓+Computer+Engineering+Student;🏆+Hackathon+Lover;🚀+Always+Learning+New+Tech" alt="Typing SVG" />
@@ -407,5 +407,5 @@ As the leader of <b>Tech Busters Team</b>, I’ve guided peers in building innov
 
 <!-- ============ BOTTOM BANNER ============ -->
 
-<img src="https://raw.githubusercontent.com/omsatote/omsatote/main/assets/banner-bottom.gif" width="100%" alt="Thanks for visiting" />
+<img src="https://raw.githubusercontent.com/omsatote/omsatote/main/banner-bottom.gif" width="100%" alt="Thanks for visiting" />
 </div>
