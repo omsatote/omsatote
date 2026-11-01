@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/omsatote/omsatote/main/assets/banner-top.svg" width="100%" alt="Om Satote banner" />
+<img src="https://raw.githubusercontent.com/omsatote/omsatote/main/assets/banner-top.gif" width="100%" alt="Om Satote banner" />
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&height=50&lines=👋+Hi+there!+I'm+Om+Satote;💻+MERN+Stack+Developer;🤖+AI+Engineer;🎓+Computer+Engineering+Student;🏆+Hackathon+Lover;🚀+Always+Learning+New+Tech" alt="Typing SVG" />
@@ -333,4 +333,79 @@ As the leader of <b>Tech Busters Team</b>, I’ve guided peers in building innov
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omsatote&theme=tokyonight" height="180" alt="Repos per
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omsatote&theme=tokyonight" height="180" alt="Repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omsatote&theme=tokyonight" height="180" alt="Most commit language" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omsatote&theme=tokyonight" height="180" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omsatote&theme=tokyonight&utcOffset=5.5" height="180" alt="Productive time" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=omsatote&theme=tokyonight&hide_border=false" alt="Streak stats" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<!-- ============ ACTIVITY ============ -->
+
+<div align="center">
+<h2>🏆 Activity & Contributions</h2>
+
+<img src="https://ghchart.rshah.org/7aa6f7/omsatote" alt="Contribution chart" width="95%" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/omsatote/omsatote/output/snake.svg" width="100%" alt="Contribution snake" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<!-- ============ QUOTE ============ -->
+
+<div align="center">
+<h2>✍️ Random Dev Quote</h2>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<!-- ============ CONNECT ============ -->
+
+<div align="center">
+<h2>🌐 Connect With Me</h2>
+
+<a href="https://my-portfolio-vercel-nu.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="mailto:omsatote142005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/om-satote/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/om_satote14">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://discord.gg/Devil.Lucifer">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+🙏;Let's+build+something+amazing+together+🚀" alt="Thanks" />
+</a>
+
+<br/><br/>
+
+<!-- ============ BOTTOM BANNER ============ -->
+
+<img src="https://raw.githubusercontent.com/omsatote/omsatote/main/assets/banner-bottom.gif" width="100%" alt="Thanks for visiting" />
+</div>
