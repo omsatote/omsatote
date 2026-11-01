@@ -5,21 +5,21 @@
 <img src="https://raw.githubusercontent.com/omsatote/omsatote/main/banner-top.gif" width="100%" alt="Om Satote banner" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&height=50&lines=👋+Hi+there!+I'm+Om+Satote;💻+MERN+Stack+Developer;🤖+AI+Engineer;🎓+Computer+Engineering+Student;🏆+Hackathon+Lover;🚀+Always+Learning+New+Tech" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&height=40&lines=👋+Hi+there!+I'm+Om+Satote;💻+MERN+Stack+Developer;🤖+AI+Engineer;🎓+Computer+Engineering+Student;🏆+Hackathon+Lover;🚀+Always+Learning+New+Tech" alt="Typing SVG" />
 </a>
 
-<br/>
-
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=omsatote&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="profile views" />
 <img src="https://img.shields.io/github/followers/omsatote?label=Followers&style=for-the-badge&color=7aa2f7&logo=github" alt="followers" />
 <img src="https://img.shields.io/github/stars/omsatote?label=Stars&style=for-the-badge&color=f7c948&logo=github" alt="stars" />
+</p>
 
-<br/><br/>
-
+<p align="center">
 <a href="https://my-portfolio-vercel-nu.vercel.app/"><img src="https://img.shields.io/badge/🌍_Portfolio-7AA2F7?style=for-the-badge&logoColor=white" /></a>
 <a href="https://YOUR-RESUME-LINK"><img src="https://img.shields.io/badge/📄_Resume-E34F26?style=for-the-badge&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/om-satote/"><img src="https://img.shields.io/badge/🤝_Hire_Me-0077B5?style=for-the-badge&logoColor=white" /></a>
 <a href="mailto:omsatote142005@gmail.com"><img src="https://img.shields.io/badge/✉️_Contact-D14836?style=for-the-badge&logoColor=white" /></a>
+</p>
 
 </div>
 
